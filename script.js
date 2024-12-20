@@ -1,6 +1,6 @@
 function shortcut(s1, s2) {
-  // your code here
-}
+ return(s1[0]+s2[0])); // your code here
+} 
 
 // Do not change the code below.
 const s1 = prompt("Enter s1:");
